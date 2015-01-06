@@ -1,5 +1,10 @@
+ HEAD
 I like Colorado but it is hard to adapt in America
 Cold and dry, but everything is my favorite color
+
+Cold and dry outside and inside all of us going , but everything is my 
+favorite color
+>>>>>>> 66d57e5cd552708c836a2a05064cf692089c7153
 The teo moons bla bla bla is red and green 
 the sky is blue
 the sun is yellow
